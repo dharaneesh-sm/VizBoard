@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dharaneesh-sm/VizBoard/static/css/main.d3a8bba0.css",
+    "main.js": "/dharaneesh-sm/VizBoard/static/js/main.169cfc50.js",
+    "index.html": "/dharaneesh-sm/VizBoard/index.html",
+    "main.d3a8bba0.css.map": "/dharaneesh-sm/VizBoard/static/css/main.d3a8bba0.css.map",
+    "main.169cfc50.js.map": "/dharaneesh-sm/VizBoard/static/js/main.169cfc50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3a8bba0.css",
+    "static/js/main.169cfc50.js"
+  ]
+}
